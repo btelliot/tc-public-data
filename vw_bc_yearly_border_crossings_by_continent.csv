@@ -1,0 +1,266 @@
+"year","continent","value"
+1972,Europe,569
+1972,Asia,44
+1972,"Americas, countries other than the United States of America",37
+1972,Oceania,36
+1972,Africa,11
+1973,Europe,704
+1973,Oceania,59
+1973,"Americas, countries other than the United States of America",46
+1973,Asia,46
+1973,Africa,14
+1974,Europe,1078
+1974,Oceania,76
+1974,Asia,50
+1974,"Americas, countries other than the United States of America",13
+1974,Africa,9
+1975,Europe,1354
+1975,Oceania,149
+1975,Asia,119
+1975,"Americas, countries other than the United States of America",80
+1975,Africa,7
+1976,Europe,1506
+1976,Oceania,234
+1976,"Americas, countries other than the United States of America",117
+1976,Asia,72
+1976,Africa,13
+1977,Europe,1474
+1977,Oceania,180
+1977,Asia,101
+1977,"Americas, countries other than the United States of America",77
+1977,Africa,11
+1978,Europe,1877
+1978,Oceania,336
+1978,"Americas, countries other than the United States of America",63
+1978,Asia,36
+1978,Africa,1
+1979,Europe,1938
+1979,Oceania,228
+1979,"Americas, countries other than the United States of America",129
+1979,Asia,72
+1979,Africa,7
+1980,Europe,4305
+1980,Oceania,569
+1980,"Americas, countries other than the United States of America",228
+1980,Asia,128
+1980,Africa,2
+1981,Europe,7446
+1981,Oceania,1148
+1981,"Americas, countries other than the United States of America",218
+1981,Asia,192
+1981,Africa,64
+1982,Europe,5752
+1982,Oceania,881
+1982,Asia,123
+1982,"Americas, countries other than the United States of America",97
+1982,Africa,42
+1983,Europe,5200
+1983,Oceania,1126
+1983,"Americas, countries other than the United States of America",157
+1983,Asia,83
+1983,Africa,53
+1984,Europe,4595
+1984,Oceania,1049
+1984,"Americas, countries other than the United States of America",349
+1984,Asia,118
+1984,Africa,61
+1985,Europe,3967
+1985,Oceania,1057
+1985,"Americas, countries other than the United States of America",493
+1985,Asia,78
+1985,Africa,59
+1986,Europe,6600
+1986,Oceania,1314
+1986,"Americas, countries other than the United States of America",398
+1986,Asia,177
+1986,Africa,21
+1987,Europe,7771
+1987,Oceania,1511
+1987,"Americas, countries other than the United States of America",463
+1987,Asia,300
+1987,Africa,18
+1988,Europe,9383
+1988,Oceania,1563
+1988,"Americas, countries other than the United States of America",441
+1988,Asia,316
+1988,Africa,131
+1989,Europe,9734
+1989,Oceania,2415
+1989,Asia,474
+1989,"Americas, countries other than the United States of America",290
+1989,Africa,21
+1990,Europe,10615
+1990,Oceania,2489
+1990,Asia,466
+1990,"Americas, countries other than the United States of America",188
+1990,Africa,51
+1991,Europe,12699
+1991,Oceania,2264
+1991,Asia,592
+1991,"Americas, countries other than the United States of America",280
+1991,Africa,52
+1992,Europe,15943
+1992,Oceania,2187
+1992,Asia,694
+1992,"Americas, countries other than the United States of America",213
+1992,Africa,87
+1993,Europe,19693
+1993,Oceania,2457
+1993,Asia,675
+1993,"Americas, countries other than the United States of America",234
+1993,Africa,52
+1994,Europe,20785
+1994,Oceania,2664
+1994,Asia,713
+1994,"Americas, countries other than the United States of America",280
+1994,Africa,140
+1995,Europe,21477
+1995,Oceania,3087
+1995,Asia,879
+1995,"Americas, countries other than the United States of America",289
+1995,Africa,81
+1996,Europe,23758
+1996,Oceania,3549
+1996,Asia,861
+1996,"Americas, countries other than the United States of America",294
+1996,Africa,85
+1997,Europe,22331
+1997,Oceania,3790
+1997,Asia,1440
+1997,"Americas, countries other than the United States of America",414
+1997,Africa,108
+1998,Europe,28480
+1998,Oceania,3827
+1998,Asia,1274
+1998,"Americas, countries other than the United States of America",490
+1998,Africa,129
+1999,Europe,26713
+1999,Oceania,3478
+1999,Asia,1544
+1999,"Americas, countries other than the United States of America",713
+1999,Africa,101
+2000,Europe,30577
+2000,Oceania,3835
+2000,Asia,1751
+2000,"Americas, countries other than the United States of America",547
+2000,Africa,131
+2001,Europe,24842
+2001,Oceania,2545
+2001,Asia,1423
+2001,"Americas, countries other than the United States of America",608
+2001,Africa,119
+2002,Europe,21730
+2002,Oceania,2597
+2002,Asia,1277
+2002,"Americas, countries other than the United States of America",771
+2002,Africa,83
+2003,Europe,23584
+2003,Oceania,2931
+2003,Asia,1032
+2003,"Americas, countries other than the United States of America",792
+2003,Africa,59
+2004,Europe,24353
+2004,Oceania,3639
+2004,Asia,2067
+2004,"Americas, countries other than the United States of America",976
+2004,Africa,204
+2005,Europe,26143
+2005,Oceania,5279
+2005,Asia,1757
+2005,"Americas, countries other than the United States of America",1106
+2005,Africa,182
+2006,Europe,24066
+2006,Oceania,5520
+2006,Asia,1848
+2006,"Americas, countries other than the United States of America",1010
+2006,Africa,128
+2007,Europe,25171
+2007,Oceania,5980
+2007,Asia,2404
+2007,"Americas, countries other than the United States of America",1211
+2007,Africa,218
+2008,Europe,26947
+2008,Oceania,6657
+2008,Asia,3011
+2008,"Americas, countries other than the United States of America",1267
+2008,Africa,179
+2009,Europe,23290
+2009,Oceania,4711
+2009,Asia,2942
+2009,"Americas, countries other than the United States of America",1042
+2009,Africa,113
+2010,Europe,24375
+2010,Oceania,6338
+2010,Asia,4521
+2010,"Americas, countries other than the United States of America",1268
+2010,Africa,137
+2011,Europe,24061
+2011,Oceania,6680
+2011,Asia,5338
+2011,"Americas, countries other than the United States of America",1380
+2011,Africa,169
+2012,Europe,21692
+2012,Oceania,7440
+2012,Asia,6651
+2012,"Americas, countries other than the United States of America",1743
+2012,Africa,171
+2013,Europe,22414
+2013,Oceania,8326
+2013,Asia,7908
+2013,"Americas, countries other than the United States of America",1968
+2013,Africa,125
+2014,Europe,23604
+2014,Oceania,10272
+2014,Asia,9066
+2014,"Americas, countries other than the United States of America",2112
+2014,Africa,178
+2015,Europe,23708
+2015,Asia,9018
+2015,Oceania,9003
+2015,"Americas, countries other than the United States of America",2282
+2015,Africa,241
+2016,Europe,24481
+2016,Asia,9008
+2016,Oceania,8582
+2016,"Americas, countries other than the United States of America",1863
+2016,Africa,129
+2017,Europe,24807
+2017,Oceania,9931
+2017,Asia,9055
+2017,"Americas, countries other than the United States of America",2724
+2017,Africa,153
+2018,Europe,26684
+2018,Oceania,10431
+2018,Asia,10244
+2018,"Americas, countries other than the United States of America",3219
+2018,Africa,224
+2019,Europe,33872
+2019,Oceania,13853
+2019,Asia,11203
+2019,"Americas, countries other than the United States of America",3593
+2019,Africa,159
+2020,Europe,45
+2020,Asia,22
+2020,"Americas, countries other than the United States of America",21
+2020,Oceania,20
+2020,Africa,6
+2021,Europe,12
+2021,Asia,12
+2021,"Americas, countries other than the United States of America",2
+2021,Africa,0
+2021,Oceania,0
+2022,Europe,7360
+2022,Asia,2960
+2022,Oceania,1600
+2022,"Americas, countries other than the United States of America",1422
+2022,Africa,64
+2023,Europe,19656
+2023,Asia,12485
+2023,Oceania,9839
+2023,"Americas, countries other than the United States of America",5839
+2023,Africa,335
+2024,Europe,14663
+2024,Asia,13623
+2024,Oceania,9432
+2024,"Americas, countries other than the United States of America",4007
+2024,Africa,132
