@@ -1,372 +1,1376 @@
-"year","geo","value"
-1972,Dawson,173
-1972,Little Gold Creek,10261
-1972,Beaver Creek,77639
-1972,Fraser,28815
-1972,Whitehorse,7263
-1972,Old Crow,163
-1972,Pleasant Camp,29775
-1973,Fraser,41273
-1973,Little Gold Creek,12638
-1973,Dawson,209
-1973,Beaver Creek,86468
-1973,Pleasant Camp,33749
-1973,Old Crow,0
-1973,Whitehorse,7809
-1974,Fraser,41865
-1974,Dawson,258
-1974,Little Gold Creek,10335
-1974,Beaver Creek,80014
-1974,Pleasant Camp,40790
-1974,Old Crow,103
-1974,Whitehorse,9727
-1975,Beaver Creek,86595
-1975,Fraser,45203
-1975,Dawson,405
-1975,Little Gold Creek,12260
-1975,Old Crow,148
-1975,Pleasant Camp,43874
-1975,Whitehorse,10795
-1976,Fraser,48770
-1976,Beaver Creek,83038
-1976,Little Gold Creek,12224
-1976,Dawson,537
-1976,Old Crow,122
-1976,Pleasant Camp,36923
-1976,Whitehorse,12360
-1977,Little Gold Creek,11989
-1977,Fraser,55066
-1977,Beaver Creek,70294
-1977,Dawson,532
-1977,Old Crow,167
-1977,Whitehorse,9689
-1977,Pleasant Camp,32086
-1978,Little Gold Creek,15137
-1978,Dawson,749
-1978,Fraser,46147
-1978,Beaver Creek,93105
-1978,Old Crow,290
-1978,Pleasant Camp,41745
-1978,Whitehorse,12754
-1979,Beaver Creek,86270
-1979,Dawson,751
-1979,Little Gold Creek,11667
-1979,Fraser,77007
-1979,Old Crow,266
-1979,Whitehorse,12148
-1979,Pleasant Camp,30876
-1980,Beaver Creek,65662
-1980,Fraser,58454
-1980,Dawson,942
-1980,Little Gold Creek,12952
-1980,Whitehorse,10599
-1980,Pleasant Camp,33831
-1980,Old Crow,206
-1981,Fraser,66855
-1981,Beaver Creek,86969
-1981,Dawson,758
-1981,Little Gold Creek,14113
-1981,Pleasant Camp,37105
-1981,Old Crow,253
-1981,Whitehorse,10499
-1982,Fraser,62327
-1982,Dawson,611
-1982,Little Gold Creek,12990
-1982,Beaver Creek,90674
-1982,Pleasant Camp,37672
-1982,Old Crow,166
-1982,Whitehorse,9534
-1983,Beaver Creek,104177
-1983,Little Gold Creek,13717
-1983,Fraser,69835
-1983,Dawson,474
-1983,Old Crow,249
-1983,Pleasant Camp,34933
-1983,Whitehorse,8413
-1984,Little Gold Creek,12922
-1984,Beaver Creek,118563
-1984,Fraser,66835
-1984,Dawson,906
-1984,Old Crow,279
-1984,Pleasant Camp,38475
-1984,Whitehorse,8935
-1985,Beaver Creek,128182
-1985,Fraser,81147
-1985,Little Gold Creek,14090
-1985,Dawson,4200
-1985,Pleasant Camp,34612
-1985,Old Crow,300
-1985,Whitehorse,8565
-1986,Fraser,105036
-1986,Beaver Creek,133052
-1986,Little Gold Creek,16336
-1986,Dawson,3831
-1986,Whitehorse,6959
-1986,Pleasant Camp,34116
-1986,Old Crow,371
-1987,Beaver Creek,130035
-1987,Fraser,116583
-1987,Old Crow,344
-1987,Dawson,2073
-1987,Little Gold Creek,20418
-1987,Whitehorse,5263
-1987,Pleasant Camp,34911
-1988,Beaver Creek,121462
-1988,Dawson,3941
-1988,Fraser,100026
-1988,Little Gold Creek,21513
-1988,Whitehorse,5542
-1988,Old Crow,449
-1988,Pleasant Camp,37709
-1989,Fraser,100690
-1989,Beaver Creek,119040
-1989,Dawson,4362
-1989,Little Gold Creek,18359
-1989,Pleasant Camp,40074
-1989,Old Crow,523
-1989,Whitehorse,5476
-1990,Fraser,102582
-1990,Beaver Creek,119142
-1990,Little Gold Creek,17908
-1990,Dawson,7430
-1990,Pleasant Camp,45843
-1990,Old Crow,690
-1990,Whitehorse,5940
-1991,Fraser,96777
-1991,Little Gold Creek,18610
-1991,Beaver Creek,119240
-1991,Old Crow,303
-1991,Pleasant Camp,46252
-1991,Dawson,5422
-1991,Whitehorse,5552
-1992,Fraser,108358
-1992,Beaver Creek,141475
-1992,Little Gold Creek,24256
-1992,Dawson,6138
-1992,Old Crow,452
-1992,Pleasant Camp,48094
-1992,Whitehorse,5148
-1993,Little Gold Creek,20798
-1993,Fraser,110305
-1993,Beaver Creek,130498
-1993,Dawson,5869
-1993,Old Crow,457
-1993,Pleasant Camp,49992
-1993,Whitehorse,4523
-1994,Fraser,119071
-1994,Beaver Creek,119932
-1994,Little Gold Creek,26306
-1994,Dawson,4727
-1994,Whitehorse,4923
-1994,Pleasant Camp,47906
-1994,Old Crow,524
-1995,Beaver Creek,126166
-1995,Fraser,132204
-1995,Pleasant Camp,47808
-1995,Dawson,4668
-1995,Little Gold Creek,24848
-1995,Whitehorse,4835
-1995,Old Crow,418
-1996,Beaver Creek,115141
-1996,Little Gold Creek,26874
-1996,Fraser,143343
-1996,Dawson,5294
-1996,Whitehorse,5005
-1996,Old Crow,801
-1996,Pleasant Camp,45138
-1997,Fraser,154287
-1997,Beaver Creek,114026
-1997,Dawson,6040
-1997,Little Gold Creek,21928
-1997,Pleasant Camp,43670
-1997,Old Crow,428
-1997,Whitehorse,5718
-1998,Fraser,170621
-1998,Beaver Creek,127442
-1998,Little Gold Creek,24185
-1998,Dawson,8066
-1998,Pleasant Camp,45989
-1998,Old Crow,289
-1998,Whitehorse,13344
-1999,Fraser,182239
-1999,Little Gold Creek,24920
-1999,Dawson,8937
-1999,Beaver Creek,127650
-1999,Pleasant Camp,44500
-1999,Old Crow,219
-1999,Whitehorse,8542
-2000,Fraser,175758
-2000,Beaver Creek,123106
-2000,Little Gold Creek,24240
-2000,Dawson,10020
-2000,Old Crow,93
-2000,Pleasant Camp,42471
-2000,Whitehorse,11543
-2001,Little Gold Creek,23360
-2001,Fraser,170522
-2001,Beaver Creek,119826
-2001,Dawson,9732
-2001,Old Crow,50
-2001,Pleasant Camp,41954
-2001,Whitehorse,11281
-2002,Fraser,180412
-2002,Beaver Creek,118530
-2002,Little Gold Creek,20754
-2002,Dawson,8950
-2002,Whitehorse,8786
-2002,Pleasant Camp,46602
-2002,Old Crow,207
-2003,Little Gold Creek,17453
-2003,Fraser,194920
-2003,Beaver Creek,110952
-2003,Dawson,9529
-2003,Old Crow,31
-2003,Whitehorse,8221
-2003,Pleasant Camp,43833
-2004,Beaver Creek,109519
-2004,Dawson,7749
-2004,Fraser,213810
-2004,Old Crow,23
-2004,Little Gold Creek,14315
-2004,Pleasant Camp,43534
-2004,Whitehorse,8093
-2005,Beaver Creek,101538
-2005,Fraser,231493
-2005,Little Gold Creek,15097
-2005,Dawson,8883
-2005,Old Crow,34
-2005,Pleasant Camp,43321
-2005,Whitehorse,7541
-2006,Fraser,247340
-2006,Beaver Creek,98460
-2006,Little Gold Creek,14482
-2006,Dawson,9681
-2006,Pleasant Camp,38832
-2006,Old Crow,46
-2006,Whitehorse,7708
-2007,Fraser,266414
-2007,Little Gold Creek,16306
-2007,Dawson,9767
-2007,Beaver Creek,100413
-2007,Pleasant Camp,37538
-2007,Old Crow,23
-2007,Whitehorse,6847
-2008,Fraser,264146
-2008,Beaver Creek,82417
-2008,Little Gold Creek,15098
-2008,Dawson,9177
-2008,Old Crow,28
-2008,Pleasant Camp,33134
-2008,Whitehorse,6974
-2009,Fraser,239149
-2009,Beaver Creek,79431
-2009,Little Gold Creek,13168
-2009,Dawson,4328
-2009,Old Crow,41
-2009,Pleasant Camp,29505
-2009,Whitehorse,6405
-2010,Fraser,271468
-2010,Beaver Creek,90630
-2010,Little Gold Creek,10133
-2010,Dawson,4551
-2010,Old Crow,23
-2010,Pleasant Camp,29470
-2010,Whitehorse,7244
-2011,Little Gold Creek,19486
-2011,Fraser,275210
-2011,Beaver Creek,76124
-2011,Dawson,524
-2011,Old Crow,6
-2011,Whitehorse,6570
-2011,Pleasant Camp,28993
-2012,Beaver Creek,73864
-2012,Dawson,434
-2012,Fraser,291139
-2012,Old Crow,51
-2012,Little Gold Creek,13341
-2012,Pleasant Camp,27623
-2012,Whitehorse,5491
-2013,Beaver Creek,74017
-2013,Dawson,338
-2013,Little Gold Creek,19410
-2013,Fraser,321067
-2013,Old Crow,25
-2013,Whitehorse,5036
-2013,Pleasant Camp,27230
-2014,Beaver Creek,71508
-2014,Fraser,298382
-2014,Dawson,7767
-2014,Little Gold Creek,12839
-2014,Whitehorse,5600
-2014,Pleasant Camp,31075
-2014,Old Crow,18
-2015,Fraser,284807
-2015,Beaver Creek,70296
-2015,Dawson,8465
-2015,Little Gold Creek,13660
-2015,Pleasant Camp,36017
-2015,Old Crow,22
-2015,Whitehorse,5003
-2016,Fraser,288204
-2016,Beaver Creek,78643
-2016,Little Gold Creek,14930
-2016,Dawson,7380
-2016,Pleasant Camp,39598
-2016,Old Crow,6
-2016,Whitehorse,5242
-2017,Fraser,293569
-2017,Beaver Creek,88803
-2017,Little Gold Creek,15112
-2017,Dawson,8164
-2017,Old Crow,11
-2017,Pleasant Camp,37877
-2017,Whitehorse,4975
-2018,Fraser,356306
-2018,Beaver Creek,90990
-2018,Little Gold Creek,15249
-2018,Dawson,7994
-2018,Old Crow,10
-2018,Pleasant Camp,38252
-2018,Whitehorse,5018
-2019,Little Gold Creek,13201
-2019,Fraser,366776
-2019,Beaver Creek,85702
-2019,Dawson,7046
-2019,Old Crow,1
-2019,Whitehorse,5280
-2019,Pleasant Camp,39366
-2020,Little Gold Creek,0
-2020,Dawson,29
-2020,Fraser,6642
-2020,Beaver Creek,28220
-2020,Old Crow,0
-2020,Pleasant Camp,4810
-2020,Whitehorse,363
-2021,Beaver Creek,31418
-2021,Dawson,0
-2021,Little Gold Creek,0
-2021,Fraser,6006
-2021,Old Crow,0
-2021,Whitehorse,410
-2021,Pleasant Camp,5327
-2022,Beaver Creek,59175
-2022,Fraser,80733
-2022,Dawson,4757
-2022,Little Gold Creek,8642
-2022,Whitehorse,3896
-2022,Pleasant Camp,25632
-2022,Old Crow,1
-2023,Fraser,341479
-2023,Beaver Creek,74983
-2023,Dawson,6674
-2023,Little Gold Creek,10455
-2023,Pleasant Camp,33786
-2023,Old Crow,19
-2023,Whitehorse,3905
-2024,Fraser,321507
-2024,Dawson,6829
-2024,Little Gold Creek,4972
-2024,Beaver Creek,57731
-2024,Pleasant Camp,17733
-2024,Old Crow,3
-2024,Whitehorse,1349
+"year","Country_of_residence","value"
+1972,Germany,328
+1972,United Kingdom,91
+1972,Switzerland,61
+1972,Other,40
+1972,Japan,40
+1972,Mexico,34
+1972,Australia,27
+1972,France,22
+1972,Austria,10
+1972,Denmark,9
+1972,New Zealand,8
+1972,Netherlands,7
+1972,Italy,5
+1972,Hong Kong,4
+1972,Belgium,4
+1972,Israel,3
+1972,Brazil,1
+1972,Taiwan,0
+1972,Singapore,0
+1972,Spain,0
+1972,"Korea, South",0
+1972,Czechia,0
+1972,Indonesia,0
+1972,India,0
+1972,Philippines,0
+1972,China,0
+1973,Germany,395
+1973,United Kingdom,88
+1973,Switzerland,78
+1973,Other,57
+1973,France,49
+1973,Japan,44
+1973,Australia,41
+1973,Mexico,40
+1973,Austria,20
+1973,New Zealand,18
+1973,Italy,15
+1973,Netherlands,10
+1973,Denmark,3
+1973,Spain,3
+1973,Brazil,2
+1973,Israel,2
+1973,India,1
+1973,Belgium,1
+1973,Hong Kong,0
+1973,China,0
+1973,Indonesia,0
+1973,Czechia,0
+1973,Singapore,0
+1973,Philippines,0
+1973,Taiwan,0
+1973,"Korea, South",0
+1974,Germany,726
+1974,United Kingdom,104
+1974,Switzerland,100
+1974,Australia,56
+1974,Other,54
+1974,Japan,50
+1974,France,43
+1974,Austria,25
+1974,New Zealand,20
+1974,Italy,11
+1974,Denmark,10
+1974,Netherlands,7
+1974,Belgium,5
+1974,Brazil,5
+1974,Mexico,4
+1974,Spain,3
+1974,Israel,1
+1974,Hong Kong,0
+1974,Taiwan,0
+1974,Czechia,0
+1974,India,0
+1974,Singapore,0
+1974,Indonesia,0
+1974,"Korea, South",0
+1974,China,0
+1974,Philippines,0
+1975,Germany,860
+1975,Switzerland,163
+1975,Japan,114
+1975,Australia,105
+1975,United Kingdom,102
+1975,France,61
+1975,Other,61
+1975,Mexico,57
+1975,New Zealand,44
+1975,Netherlands,38
+1975,Austria,34
+1975,Italy,21
+1975,Belgium,12
+1975,Spain,9
+1975,Brazil,8
+1975,Denmark,6
+1975,Israel,3
+1975,Taiwan,1
+1975,Czechia,0
+1975,Indonesia,0
+1975,Philippines,0
+1975,"Korea, South",0
+1975,Hong Kong,0
+1975,China,0
+1975,Singapore,0
+1975,India,0
+1976,Germany,844
+1976,Australia,190
+1976,United Kingdom,166
+1976,Other,150
+1976,Switzerland,126
+1976,France,99
+1976,Mexico,91
+1976,Japan,52
+1976,Denmark,46
+1976,New Zealand,44
+1976,Austria,34
+1976,Netherlands,30
+1976,Italy,19
+1976,Israel,15
+1976,Belgium,6
+1976,Brazil,3
+1976,Spain,2
+1976,India,1
+1976,Taiwan,0
+1976,China,0
+1976,Hong Kong,0
+1976,Czechia,0
+1976,Indonesia,0
+1976,Singapore,0
+1976,Philippines,0
+1976,"Korea, South",0
+1977,Germany,857
+1977,France,189
+1977,Switzerland,144
+1977,Australia,108
+1977,Japan,96
+1977,Other,95
+1977,United Kingdom,90
+1977,New Zealand,72
+1977,Mexico,48
+1977,Austria,43
+1977,Netherlands,40
+1977,Denmark,10
+1977,Israel,9
+1977,Italy,8
+1977,Brazil,7
+1977,Belgium,6
+1977,Philippines,3
+1977,Spain,2
+1977,Hong Kong,1
+1977,India,1
+1977,Czechia,0
+1977,"Korea, South",0
+1977,China,0
+1977,Indonesia,0
+1977,Taiwan,0
+1977,Singapore,0
+1978,Germany,1138
+1978,Australia,278
+1978,Switzerland,204
+1978,United Kingdom,166
+1978,France,160
+1978,Other,59
+1978,New Zealand,58
+1978,Netherlands,49
+1978,Mexico,39
+1978,Austria,34
+1978,Italy,33
+1978,Japan,31
+1978,Denmark,21
+1978,Belgium,15
+1978,Israel,9
+1978,Brazil,5
+1978,Spain,5
+1978,Hong Kong,1
+1978,China,0
+1978,Czechia,0
+1978,Singapore,0
+1978,Indonesia,0
+1978,Philippines,0
+1978,India,0
+1978,"Korea, South",0
+1978,Taiwan,0
+1979,Germany,942
+1979,Switzerland,401
+1979,United Kingdom,209
+1979,Australia,178
+1979,France,132
+1979,Mexico,112
+1979,Other,94
+1979,Japan,67
+1979,Netherlands,58
+1979,New Zealand,50
+1979,Austria,36
+1979,Italy,34
+1979,Denmark,24
+1979,Belgium,11
+1979,Israel,8
+1979,Brazil,7
+1979,Spain,3
+1979,India,2
+1979,Singapore,1
+1979,Czechia,0
+1979,Philippines,0
+1979,Hong Kong,0
+1979,Indonesia,0
+1979,Taiwan,0
+1979,China,0
+1979,"Korea, South",0
+1980,Germany,2240
+1980,Switzerland,672
+1980,United Kingdom,475
+1980,Australia,408
+1980,France,376
+1980,Other,209
+1980,New Zealand,161
+1980,Mexico,159
+1980,Austria,127
+1980,Netherlands,92
+1980,Japan,74
+1980,Italy,72
+1980,Belgium,38
+1980,Taiwan,26
+1980,Israel,26
+1980,Denmark,21
+1980,Brazil,15
+1980,Spain,10
+1980,China,7
+1980,Singapore,4
+1980,India,2
+1980,"Korea, South",2
+1980,Indonesia,0
+1980,Czechia,0
+1980,Hong Kong,0
+1980,Philippines,0
+1981,Germany,3964
+1981,Switzerland,1652
+1981,Australia,951
+1981,United Kingdom,703
+1981,Other,361
+1981,France,340
+1981,Netherlands,213
+1981,New Zealand,193
+1981,Austria,135
+1981,Mexico,135
+1981,Japan,100
+1981,Italy,74
+1981,Denmark,44
+1981,Israel,39
+1981,Taiwan,30
+1981,Belgium,29
+1981,Hong Kong,29
+1981,Spain,29
+1981,Brazil,14
+1981,India,6
+1981,Philippines,3
+1981,"Korea, South",2
+1981,Czechia,0
+1981,China,0
+1981,Singapore,0
+1981,Indonesia,0
+1982,Germany,3086
+1982,Switzerland,1000
+1982,Australia,705
+1982,United Kingdom,420
+1982,France,360
+1982,Other,277
+1982,Austria,199
+1982,New Zealand,172
+1982,Netherlands,143
+1982,Italy,97
+1982,Japan,79
+1982,Belgium,70
+1982,Denmark,67
+1982,Mexico,60
+1982,Israel,60
+1982,Spain,36
+1982,Taiwan,20
+1982,"Korea, South",8
+1982,Brazil,3
+1982,Hong Kong,1
+1982,China,1
+1982,Philippines,1
+1982,Indonesia,0
+1982,Singapore,0
+1982,India,0
+1982,Czechia,0
+1983,Germany,2612
+1983,Switzerland,950
+1983,Australia,923
+1983,United Kingdom,493
+1983,Austria,260
+1983,France,249
+1983,Other,243
+1983,New Zealand,203
+1983,Netherlands,114
+1983,Mexico,108
+1983,Italy,106
+1983,Denmark,103
+1983,Israel,87
+1983,Japan,46
+1983,Belgium,44
+1983,Spain,20
+1983,Brazil,10
+1983,Singapore,5
+1983,India,5
+1983,China,3
+1983,Taiwan,2
+1983,"Korea, South",2
+1983,Hong Kong,0
+1983,Philippines,0
+1983,Czechia,0
+1983,Indonesia,0
+1984,Germany,2143
+1984,Australia,878
+1984,Switzerland,813
+1984,United Kingdom,569
+1984,Other,371
+1984,Mexico,240
+1984,Austria,201
+1984,France,186
+1984,New Zealand,167
+1984,Netherlands,137
+1984,Italy,102
+1984,Israel,90
+1984,Japan,72
+1984,Belgium,44
+1984,Brazil,32
+1984,Spain,27
+1984,Denmark,26
+1984,India,8
+1984,China,5
+1984,Philippines,3
+1984,Hong Kong,2
+1984,Singapore,1
+1984,Indonesia,0
+1984,"Korea, South",0
+1984,Czechia,0
+1984,Taiwan,0
+1985,Germany,1667
+1985,Australia,882
+1985,Switzerland,731
+1985,United Kingdom,455
+1985,Mexico,421
+1985,France,296
+1985,Other,255
+1985,Austria,194
+1985,New Zealand,174
+1985,Italy,169
+1985,Netherlands,105
+1985,Israel,98
+1985,Japan,42
+1985,Denmark,40
+1985,Belgium,33
+1985,Spain,30
+1985,Brazil,12
+1985,India,6
+1985,China,2
+1985,Singapore,2
+1985,Philippines,1
+1985,"Korea, South",1
+1985,Taiwan,0
+1985,Indonesia,0
+1985,Czechia,0
+1985,Hong Kong,0
+1986,Germany,3178
+1986,Switzerland,1137
+1986,Australia,951
+1986,United Kingdom,661
+1986,France,451
+1986,New Zealand,359
+1986,Other,306
+1986,Mexico,261
+1986,Italy,210
+1986,Austria,194
+1986,Netherlands,176
+1986,Denmark,167
+1986,Israel,108
+1986,Japan,101
+1986,Belgium,50
+1986,Brazil,40
+1986,Spain,27
+1986,Hong Kong,14
+1986,Taiwan,11
+1986,Philippines,10
+1986,China,7
+1986,India,7
+1986,"Korea, South",5
+1986,Singapore,3
+1986,Indonesia,0
+1986,Czechia,0
+1987,Germany,3861
+1987,Switzerland,1275
+1987,Australia,1139
+1987,United Kingdom,784
+1987,France,528
+1987,Mexico,378
+1987,New Zealand,372
+1987,Austria,356
+1987,Other,328
+1987,Netherlands,245
+1987,Italy,212
+1987,Japan,151
+1987,Belgium,113
+1987,Israel,54
+1987,Spain,52
+1987,Denmark,42
+1987,China,27
+1987,Taiwan,24
+1987,Brazil,17
+1987,Hong Kong,17
+1987,"Korea, South",14
+1987,Philippines,8
+1987,Singapore,7
+1987,India,5
+1987,Indonesia,0
+1987,Czechia,0
+1988,Germany,4728
+1988,Switzerland,1731
+1988,Australia,1098
+1988,United Kingdom,865
+1988,France,492
+1988,New Zealand,465
+1988,Mexico,331
+1988,Italy,310
+1988,Netherlands,278
+1988,Japan,249
+1988,Other,152
+1988,Belgium,109
+1988,Spain,104
+1988,Denmark,81
+1988,Israel,78
+1988,Brazil,25
+1988,India,12
+1988,Hong Kong,11
+1988,Czechia,0
+1988,Philippines,0
+1988,Taiwan,0
+1988,Singapore,0
+1988,Austria,0
+1988,"Korea, South",0
+1988,Indonesia,0
+1988,China,0
+1989,Germany,4633
+1989,Australia,1816
+1989,Switzerland,1804
+1989,United Kingdom,1266
+1989,New Zealand,598
+1989,France,387
+1989,Italy,331
+1989,Japan,265
+1989,Netherlands,255
+1989,Mexico,158
+1989,Other,158
+1989,Belgium,113
+1989,Denmark,100
+1989,Spain,76
+1989,Israel,47
+1989,Brazil,41
+1989,India,22
+1989,Hong Kong,15
+1989,Taiwan,0
+1989,Austria,0
+1989,"Korea, South",0
+1989,Czechia,0
+1989,Indonesia,0
+1989,Singapore,0
+1989,Philippines,0
+1989,China,0
+1990,Germany,4622
+1990,Australia,1826
+1990,Switzerland,1672
+1990,United Kingdom,1243
+1990,France,768
+1990,New Zealand,658
+1990,Other,621
+1990,Austria,492
+1990,Italy,465
+1990,Netherlands,425
+1990,Japan,320
+1990,Denmark,148
+1990,Spain,129
+1990,Mexico,99
+1990,Israel,96
+1990,Belgium,74
+1990,Brazil,31
+1990,Singapore,28
+1990,Taiwan,25
+1990,"Korea, South",16
+1990,India,15
+1990,China,14
+1990,Indonesia,10
+1990,Hong Kong,8
+1990,Philippines,4
+1991,Germany,5675
+1991,Switzerland,2320
+1991,Australia,1783
+1991,United Kingdom,1468
+1991,France,836
+1991,Other,597
+1991,Austria,578
+1991,Netherlands,496
+1991,New Zealand,478
+1991,Italy,398
+1991,Japan,334
+1991,Belgium,157
+1991,Israel,145
+1991,Spain,140
+1991,Mexico,127
+1991,Taiwan,112
+1991,Brazil,58
+1991,Denmark,56
+1991,China,52
+1991,India,26
+1991,"Korea, South",17
+1991,Singapore,11
+1991,Philippines,9
+1991,Hong Kong,9
+1991,Indonesia,5
+1992,Germany,7605
+1992,Switzerland,2724
+1992,Australia,1787
+1992,United Kingdom,1785
+1992,Other,821
+1992,France,754
+1992,Austria,722
+1992,Italy,573
+1992,Netherlands,539
+1992,Japan,470
+1992,New Zealand,400
+1992,Spain,252
+1992,Belgium,163
+1992,Israel,134
+1992,Mexico,86
+1992,Denmark,84
+1992,"Korea, South",43
+1992,China,43
+1992,Brazil,36
+1992,India,33
+1992,Taiwan,31
+1992,Singapore,27
+1992,Philippines,7
+1992,Hong Kong,3
+1992,Indonesia,2
+1993,Germany,9721
+1993,Switzerland,3193
+1993,United Kingdom,2436
+1993,Australia,1995
+1993,France,1205
+1993,Austria,959
+1993,Other,608
+1993,Italy,510
+1993,Netherlands,468
+1993,New Zealand,462
+1993,Japan,425
+1993,Belgium,228
+1993,Israel,219
+1993,Spain,190
+1993,Mexico,99
+1993,Denmark,86
+1993,Czechia,73
+1993,Philippines,51
+1993,Singapore,35
+1993,Brazil,31
+1993,China,29
+1993,India,29
+1993,"Korea, South",19
+1993,Hong Kong,18
+1993,Taiwan,17
+1993,Indonesia,5
+1994,Germany,10819
+1994,Switzerland,2900
+1994,United Kingdom,2429
+1994,Australia,2148
+1994,Austria,1190
+1994,France,950
+1994,Other,709
+1994,Netherlands,610
+1994,Italy,554
+1994,New Zealand,512
+1994,Japan,388
+1994,Belgium,299
+1994,Israel,251
+1994,Spain,194
+1994,Czechia,119
+1994,Mexico,113
+1994,China,87
+1994,Denmark,82
+1994,"Korea, South",55
+1994,Taiwan,37
+1994,Brazil,32
+1994,Indonesia,28
+1994,Singapore,25
+1994,India,19
+1994,Philippines,17
+1994,Hong Kong,15
+1995,Germany,11417
+1995,Switzerland,2785
+1995,Australia,2467
+1995,United Kingdom,2303
+1995,Austria,1090
+1995,France,961
+1995,Other,743
+1995,Netherlands,686
+1995,Italy,627
+1995,New Zealand,620
+1995,Japan,381
+1995,Belgium,318
+1995,Israel,307
+1995,Spain,218
+1995,Czechia,171
+1995,China,150
+1995,Denmark,110
+1995,Brazil,98
+1995,Singapore,88
+1995,"Korea, South",88
+1995,Mexico,78
+1995,Indonesia,45
+1995,Taiwan,20
+1995,Hong Kong,17
+1995,Philippines,15
+1995,India,10
+1996,Germany,13037
+1996,Australia,2927
+1996,Switzerland,2915
+1996,United Kingdom,2546
+1996,Austria,1211
+1996,Other,923
+1996,France,903
+1996,Netherlands,715
+1996,Italy,632
+1996,New Zealand,620
+1996,Japan,353
+1996,Czechia,293
+1996,Belgium,292
+1996,Israel,290
+1996,Spain,204
+1996,Denmark,131
+1996,China,105
+1996,Singapore,90
+1996,Mexico,84
+1996,"Korea, South",68
+1996,India,56
+1996,Brazil,50
+1996,Hong Kong,36
+1996,Indonesia,33
+1996,Philippines,24
+1996,Taiwan,9
+1997,Germany,11646
+1997,Australia,3078
+1997,United Kingdom,2834
+1997,Switzerland,2520
+1997,Austria,1045
+1997,France,952
+1997,Netherlands,874
+1997,Other,855
+1997,New Zealand,709
+1997,Italy,676
+1997,Japan,457
+1997,Taiwan,389
+1997,Israel,370
+1997,Czechia,350
+1997,Belgium,284
+1997,China,210
+1997,Mexico,160
+1997,Spain,156
+1997,Denmark,107
+1997,Brazil,85
+1997,Singapore,84
+1997,"Korea, South",82
+1997,Indonesia,77
+1997,India,39
+1997,Philippines,24
+1997,Hong Kong,20
+1998,Germany,16627
+1998,Australia,3208
+1998,United Kingdom,3051
+1998,Switzerland,2890
+1998,France,1189
+1998,Netherlands,1143
+1998,Other,967
+1998,Austria,895
+1998,Italy,719
+1998,New Zealand,618
+1998,Japan,501
+1998,Israel,440
+1998,Belgium,278
+1998,Spain,273
+1998,Czechia,269
+1998,Mexico,239
+1998,China,194
+1998,Denmark,118
+1998,India,103
+1998,Singapore,102
+1998,Brazil,99
+1998,Taiwan,87
+1998,"Korea, South",77
+1998,Hong Kong,54
+1998,Philippines,49
+1998,Indonesia,10
+1999,Germany,14247
+1999,United Kingdom,4061
+1999,Switzerland,2967
+1999,Australia,2847
+1999,Other,1174
+1999,France,978
+1999,Netherlands,970
+1999,Austria,766
+1999,Italy,730
+1999,New Zealand,629
+1999,Japan,382
+1999,Taiwan,381
+1999,Spain,344
+1999,Mexico,326
+1999,Israel,300
+1999,Belgium,258
+1999,Czechia,242
+1999,China,238
+1999,Singapore,183
+1999,Denmark,122
+1999,Brazil,119
+1999,Hong Kong,92
+1999,Philippines,72
+1999,India,57
+1999,"Korea, South",40
+1999,Indonesia,24
+2000,Germany,15340
+2000,Switzerland,4522
+2000,United Kingdom,4450
+2000,Australia,3231
+2000,Netherlands,1599
+2000,Other,1123
+2000,Austria,1090
+2000,France,903
+2000,Taiwan,703
+2000,Italy,631
+2000,New Zealand,601
+2000,Czechia,341
+2000,Japan,303
+2000,Denmark,300
+2000,Belgium,286
+2000,Mexico,261
+2000,China,236
+2000,Israel,232
+2000,Spain,190
+2000,Singapore,148
+2000,India,92
+2000,"Korea, South",78
+2000,Brazil,75
+2000,Hong Kong,48
+2000,Philippines,37
+2000,Indonesia,21
+2001,Germany,12101
+2001,Switzerland,3997
+2001,United Kingdom,3768
+2001,Australia,2130
+2001,Netherlands,1251
+2001,Other,965
+2001,France,729
+2001,Austria,625
+2001,Japan,569
+2001,Belgium,453
+2001,Italy,439
+2001,New Zealand,415
+2001,Mexico,399
+2001,Israel,290
+2001,Czechia,242
+2001,Spain,198
+2001,"Korea, South",173
+2001,Indonesia,153
+2001,Denmark,150
+2001,Singapore,143
+2001,China,95
+2001,India,75
+2001,Philippines,62
+2001,Hong Kong,40
+2001,Brazil,40
+2001,Taiwan,35
+2002,Germany,10466
+2002,United Kingdom,3793
+2002,Switzerland,2620
+2002,Australia,2187
+2002,Netherlands,1406
+2002,Other,1127
+2002,France,685
+2002,Austria,662
+2002,Italy,488
+2002,Mexico,414
+2002,New Zealand,409
+2002,Japan,391
+2002,Czechia,306
+2002,Israel,239
+2002,Belgium,219
+2002,Singapore,202
+2002,"Korea, South",178
+2002,Spain,142
+2002,Taiwan,109
+2002,Denmark,100
+2002,India,79
+2002,China,67
+2002,Indonesia,45
+2002,Philippines,43
+2002,Hong Kong,42
+2002,Brazil,39
+2003,Germany,11307
+2003,United Kingdom,4039
+2003,Switzerland,3188
+2003,Australia,2410
+2003,Netherlands,1281
+2003,Other,1018
+2003,France,764
+2003,Austria,746
+2003,New Zealand,519
+2003,Mexico,450
+2003,Italy,404
+2003,Japan,397
+2003,Czechia,339
+2003,Israel,284
+2003,Spain,255
+2003,Denmark,218
+2003,Belgium,178
+2003,India,157
+2003,Taiwan,100
+2003,"Korea, South",88
+2003,China,54
+2003,Brazil,48
+2003,Philippines,44
+2003,Singapore,44
+2003,Hong Kong,34
+2003,Indonesia,32
+2004,Germany,11936
+2004,United Kingdom,3952
+2004,Australia,2976
+2004,Switzerland,2955
+2004,Other,1388
+2004,Netherlands,1301
+2004,Austria,961
+2004,France,720
+2004,Japan,698
+2004,New Zealand,651
+2004,Italy,563
+2004,Mexico,537
+2004,Taiwan,350
+2004,Belgium,305
+2004,Israel,264
+2004,Singapore,264
+2004,Spain,257
+2004,Czechia,242
+2004,India,202
+2004,Denmark,185
+2004,"Korea, South",138
+2004,Hong Kong,96
+2004,Brazil,95
+2004,Indonesia,90
+2004,Philippines,64
+2004,China,49
+2005,Germany,11710
+2005,United Kingdom,5652
+2005,Australia,4214
+2005,Switzerland,2768
+2005,Other,1545
+2005,Netherlands,1411
+2005,New Zealand,1029
+2005,France,871
+2005,Austria,786
+2005,Italy,687
+2005,Mexico,630
+2005,Japan,580
+2005,Belgium,348
+2005,Czechia,306
+2005,Israel,287
+2005,Taiwan,253
+2005,Spain,238
+2005,Denmark,229
+2005,"Korea, South",205
+2005,India,192
+2005,Singapore,142
+2005,China,124
+2005,Brazil,110
+2005,Philippines,62
+2005,Hong Kong,58
+2005,Indonesia,30
+2006,Germany,10056
+2006,United Kingdom,6046
+2006,Australia,4664
+2006,Switzerland,2538
+2006,Other,1345
+2006,Netherlands,1299
+2006,France,881
+2006,New Zealand,854
+2006,Austria,725
+2006,Mexico,577
+2006,Italy,505
+2006,Taiwan,348
+2006,Japan,345
+2006,Belgium,333
+2006,Czechia,316
+2006,"Korea, South",290
+2006,Spain,247
+2006,Israel,230
+2006,India,203
+2006,China,161
+2006,Denmark,155
+2006,Singapore,135
+2006,Hong Kong,113
+2006,Philippines,94
+2006,Brazil,91
+2006,Indonesia,21
+2007,Germany,10468
+2007,United Kingdom,6056
+2007,Australia,5008
+2007,Switzerland,2634
+2007,Other,1891
+2007,Netherlands,1313
+2007,France,1005
+2007,New Zealand,972
+2007,Mexico,711
+2007,Austria,667
+2007,Italy,521
+2007,Japan,425
+2007,India,414
+2007,Spain,351
+2007,China,344
+2007,Czechia,318
+2007,"Korea, South",259
+2007,Denmark,257
+2007,Taiwan,242
+2007,Israel,242
+2007,Belgium,232
+2007,Singapore,214
+2007,Hong Kong,166
+2007,Philippines,133
+2007,Brazil,102
+2007,Indonesia,39
+2008,Germany,10579
+2008,United Kingdom,6090
+2008,Australia,5513
+2008,Switzerland,2801
+2008,Other,2025
+2008,Netherlands,1649
+2008,New Zealand,1141
+2008,France,1115
+2008,Austria,850
+2008,Mexico,845
+2008,Italy,660
+2008,India,530
+2008,Czechia,499
+2008,Spain,498
+2008,Taiwan,448
+2008,China,426
+2008,Japan,382
+2008,Israel,377
+2008,"Korea, South",369
+2008,Belgium,309
+2008,Singapore,265
+2008,Hong Kong,217
+2008,Denmark,174
+2008,Brazil,101
+2008,Philippines,100
+2008,Indonesia,98
+2009,Germany,10021
+2009,United Kingdom,4711
+2009,Australia,4026
+2009,Switzerland,2534
+2009,Other,1544
+2009,Netherlands,1248
+2009,France,848
+2009,New Zealand,685
+2009,Austria,650
+2009,India,607
+2009,Italy,557
+2009,Mexico,496
+2009,Czechia,492
+2009,Spain,455
+2009,China,433
+2009,Israel,391
+2009,Japan,367
+2009,"Korea, South",357
+2009,Taiwan,317
+2009,Belgium,298
+2009,Singapore,253
+2009,Brazil,223
+2009,Denmark,170
+2009,Philippines,149
+2009,Hong Kong,137
+2009,Indonesia,129
+2010,Germany,9954
+2010,Australia,5506
+2010,United Kingdom,4523
+2010,Switzerland,2988
+2010,Other,2070
+2010,Netherlands,1262
+2010,France,1088
+2010,India,1071
+2010,"Korea, South",916
+2010,New Zealand,831
+2010,Austria,805
+2010,Italy,693
+2010,China,574
+2010,Mexico,550
+2010,Israel,548
+2010,Czechia,462
+2010,Spain,460
+2010,Taiwan,429
+2010,Singapore,346
+2010,Belgium,308
+2010,Indonesia,280
+2010,Japan,245
+2010,Brazil,218
+2010,Philippines,197
+2010,Hong Kong,170
+2010,Denmark,145
+2011,Germany,8888
+2011,Australia,5883
+2011,United Kingdom,4529
+2011,Switzerland,3444
+2011,Other,2608
+2011,Netherlands,1356
+2011,India,1042
+2011,China,938
+2011,France,922
+2011,New Zealand,786
+2011,"Korea, South",760
+2011,Austria,717
+2011,Mexico,668
+2011,Israel,581
+2011,Italy,565
+2011,Czechia,558
+2011,Singapore,507
+2011,Spain,489
+2011,Taiwan,470
+2011,Indonesia,467
+2011,Japan,388
+2011,Belgium,277
+2011,Brazil,233
+2011,Hong Kong,211
+2011,Philippines,175
+2011,Denmark,166
+2012,Germany,7549
+2012,Australia,6268
+2012,United Kingdom,5520
+2012,Switzerland,2696
+2012,Other,2526
+2012,India,1455
+2012,China,1408
+2012,New Zealand,1171
+2012,France,1084
+2012,Netherlands,828
+2012,Mexico,803
+2012,"Korea, South",786
+2012,Austria,676
+2012,Japan,618
+2012,Singapore,581
+2012,Israel,543
+2012,Czechia,501
+2012,Taiwan,459
+2012,Italy,386
+2012,Indonesia,360
+2012,Spain,330
+2012,Brazil,329
+2012,Belgium,269
+2012,Philippines,216
+2012,Hong Kong,211
+2012,Denmark,124
+2013,Germany,8270
+2013,Australia,7113
+2013,United Kingdom,4272
+2013,Switzerland,3101
+2013,Other,2813
+2013,China,1847
+2013,France,1390
+2013,India,1338
+2013,New Zealand,1207
+2013,"Korea, South",1000
+2013,Netherlands,939
+2013,Mexico,847
+2013,Austria,794
+2013,Taiwan,767
+2013,Singapore,613
+2013,Spain,609
+2013,Japan,577
+2013,Israel,495
+2013,Czechia,493
+2013,Indonesia,435
+2013,Philippines,412
+2013,Italy,406
+2013,Brazil,343
+2013,Belgium,246
+2013,Hong Kong,231
+2013,Denmark,183
+2014,Australia,8912
+2014,Germany,8772
+2014,United Kingdom,4422
+2014,Switzerland,3235
+2014,Other,2794
+2014,China,2793
+2014,New Zealand,1357
+2014,India,1336
+2014,Netherlands,1208
+2014,France,1143
+2014,Mexico,968
+2014,Singapore,967
+2014,"Korea, South",850
+2014,Taiwan,808
+2014,Austria,757
+2014,Czechia,636
+2014,Israel,574
+2014,Italy,565
+2014,Spain,546
+2014,Brazil,496
+2014,Indonesia,466
+2014,Japan,395
+2014,Philippines,394
+2014,Belgium,341
+2014,Hong Kong,334
+2014,Denmark,163
+2015,Germany,9387
+2015,Australia,7749
+2015,United Kingdom,4094
+2015,Other,3055
+2015,China,2994
+2015,Switzerland,2738
+2015,India,1460
+2015,Netherlands,1298
+2015,New Zealand,1253
+2015,France,1213
+2015,Mexico,991
+2015,Austria,924
+2015,Singapore,795
+2015,Taiwan,645
+2015,Spain,637
+2015,Italy,575
+2015,"Korea, South",564
+2015,Indonesia,550
+2015,Czechia,547
+2015,Brazil,546
+2015,Japan,474
+2015,Hong Kong,401
+2015,Israel,397
+2015,Philippines,392
+2015,Belgium,385
+2015,Denmark,188
+2016,Germany,9896
+2016,Australia,7328
+2016,United Kingdom,4079
+2016,China,3428
+2016,Switzerland,3145
+2016,Other,2644
+2016,France,1551
+2016,India,1547
+2016,New Zealand,1253
+2016,Netherlands,1166
+2016,Austria,727
+2016,Mexico,722
+2016,"Korea, South",713
+2016,Singapore,587
+2016,Spain,576
+2016,Italy,567
+2016,Taiwan,542
+2016,Philippines,539
+2016,Japan,536
+2016,Czechia,492
+2016,Israel,395
+2016,Indonesia,395
+2016,Brazil,380
+2016,Belgium,375
+2016,Hong Kong,283
+2016,Denmark,197
+2017,Germany,10138
+2017,Australia,8472
+2017,United Kingdom,4389
+2017,Switzerland,3334
+2017,China,2900
+2017,Other,2694
+2017,New Zealand,1456
+2017,India,1396
+2017,Mexico,1391
+2017,Netherlands,1297
+2017,France,1193
+2017,"Korea, South",818
+2017,Singapore,795
+2017,Taiwan,757
+2017,Austria,655
+2017,Spain,609
+2017,Czechia,574
+2017,Italy,556
+2017,Brazil,542
+2017,Japan,520
+2017,Indonesia,470
+2017,Israel,444
+2017,Philippines,408
+2017,Belgium,375
+2017,Hong Kong,357
+2017,Denmark,130
+2018,Germany,10487
+2018,Australia,8796
+2018,United Kingdom,5646
+2018,Other,3499
+2018,Switzerland,3013
+2018,China,2571
+2018,India,2248
+2018,Mexico,1680
+2018,New Zealand,1601
+2018,France,1316
+2018,Netherlands,1302
+2018,Singapore,856
+2018,Taiwan,756
+2018,"Korea, South",718
+2018,Czechia,662
+2018,Philippines,660
+2018,Austria,652
+2018,Spain,617
+2018,Brazil,614
+2018,Indonesia,579
+2018,Italy,575
+2018,Japan,504
+2018,Israel,497
+2018,Hong Kong,397
+2018,Belgium,371
+2018,Denmark,185
+2019,Germany,12358
+2019,Australia,11949
+2019,United Kingdom,7793
+2019,Other,4247
+2019,Switzerland,3642
+2019,China,2985
+2019,India,2251
+2019,Mexico,2040
+2019,New Zealand,1869
+2019,France,1806
+2019,Netherlands,1411
+2019,Singapore,1096
+2019,Austria,1083
+2019,Japan,923
+2019,Spain,865
+2019,Italy,777
+2019,Taiwan,768
+2019,Czechia,758
+2019,"Korea, South",717
+2019,Brazil,637
+2019,Philippines,612
+2019,Israel,534
+2019,Hong Kong,465
+2019,Indonesia,428
+2019,Belgium,346
+2019,Denmark,320
+2020,Other,16
+2020,Mexico,16
+2020,Germany,15
+2020,Australia,14
+2020,United Kingdom,10
+2020,France,8
+2020,China,7
+2020,New Zealand,6
+2020,Czechia,4
+2020,Japan,3
+2020,India,3
+2020,Austria,3
+2020,Taiwan,3
+2020,Singapore,2
+2020,Philippines,2
+2020,Netherlands,1
+2020,Belgium,1
+2020,Indonesia,0
+2020,"Korea, South",0
+2020,Denmark,0
+2020,Hong Kong,0
+2020,Spain,0
+2020,Israel,0
+2020,Switzerland,0
+2020,Brazil,0
+2020,Italy,0
+2021,Singapore,7
+2021,India,3
+2021,Israel,3
+2021,United Kingdom,2
+2021,Other,2
+2021,France,2
+2021,Germany,2
+2021,China,2
+2021,Austria,1
+2021,Mexico,1
+2021,Brazil,1
+2021,Spain,0
+2021,Belgium,0
+2021,Netherlands,0
+2021,Taiwan,0
+2021,Japan,0
+2021,Denmark,0
+2021,Philippines,0
+2021,Hong Kong,0
+2021,Indonesia,0
+2021,"Korea, South",0
+2021,Czechia,0
+2021,New Zealand,0
+2021,Italy,0
+2021,Switzerland,0
+2021,Australia,0
+2022,Germany,2937
+2022,United Kingdom,1908
+2022,Australia,1361
+2022,Other,1331
+2022,Mexico,1120
+2022,India,501
+2022,"Korea, South",449
+2022,Switzerland,386
+2022,France,336
+2022,Japan,327
+2022,Hong Kong,316
+2022,China,300
+2022,Netherlands,283
+2022,Philippines,243
+2022,New Zealand,233
+2022,Singapore,211
+2022,Spain,194
+2022,Taiwan,148
+2022,Austria,142
+2022,Italy,131
+2022,Brazil,118
+2022,Belgium,112
+2022,Czechia,83
+2022,Israel,81
+2022,Indonesia,81
+2022,Denmark,78
+2023,Australia,8588
+2023,United Kingdom,6833
+2023,Other,4271
+2023,Mexico,4051
+2023,Germany,3968
+2023,France,3279
+2023,China,2554
+2023,India,2311
+2023,"Korea, South",1356
+2023,New Zealand,1221
+2023,Singapore,1185
+2023,Taiwan,1145
+2023,Japan,964
+2023,Netherlands,911
+2023,Philippines,892
+2023,Hong Kong,867
+2023,Switzerland,662
+2023,Spain,647
+2023,Brazil,559
+2023,Italy,458
+2023,Indonesia,315
+2023,Austria,306
+2023,Israel,296
+2023,Belgium,247
+2023,Czechia,176
+2023,Denmark,97
+2024,Australia,8140
+2024,United Kingdom,7203
+2024,India,3470
+2024,Other,3432
+2024,Mexico,2579
+2024,China,2571
+2024,Germany,2105
+2024,Singapore,1754
+2024,New Zealand,1287
+2024,Taiwan,1228
+2024,"Korea, South",1071
+2024,Spain,1061
+2024,Netherlands,933
+2024,Philippines,814
+2024,Hong Kong,679
+2024,Japan,622
+2024,Brazil,622
+2024,Israel,441
+2024,Italy,334
+2024,Switzerland,332
+2024,France,305
+2024,Indonesia,276
+2024,Belgium,211
+2024,Austria,189
+2024,Denmark,106
+2024,Czechia,92
