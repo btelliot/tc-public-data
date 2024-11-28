@@ -1,4 +1,4 @@
-"ref_date","site","value"
+ref_date,site,value
 1971-04-01,SS Klondike,0
 1971-05-01,SS Klondike,0
 1971-06-01,SS Klondike,3603
@@ -2195,15 +2195,3 @@
 2022-12-01,Kluane National Park,0
 2022-12-01,Chilkoot Trail,0
 2022-12-01,Klondike National Historic Site,10
-2023-01-01,Klondike National Historic Site,15
-2023-01-01,Chilkoot Trail,0
-2023-01-01,Kluane National Park,0
-2023-01-01,SS Klondike,0
-2023-02-01,SS Klondike,0
-2023-02-01,Kluane National Park,38
-2023-02-01,Chilkoot Trail,0
-2023-02-01,Klondike National Historic Site,48
-2023-03-01,Klondike National Historic Site,57
-2023-03-01,Chilkoot Trail,300
-2023-03-01,Kluane National Park,59
-2023-03-01,SS Klondike,0
